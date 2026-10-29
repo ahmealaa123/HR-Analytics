@@ -28,11 +28,11 @@ Add the full names of all team members below.
 
 | No. | Team Member Name |
 |---:|---|
-| 1 | [Full Name] |
-| 2 | [Full Name] |
-| 3 | [Full Name] |
-| 4 | [Full Name] |
-| 5 | [Full Name] |
+| 1 | [Team (4) - Ahmed Alaa - HR- YA69] |
+| 2 | [Team (4) - Fady Waheed - HR- YA69] |
+| 3 | [Team (4) - Youssef Hamdy - HR- YA69] |
+| 4 | [Team (4) - Mohamed Awad - HR- YA69] |
+| 5 | [Team (4) - Abdulrahman Hossam - HR- YA69] |
 
 ## 4. Work Plan
 
