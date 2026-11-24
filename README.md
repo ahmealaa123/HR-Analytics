@@ -162,7 +162,7 @@ The project will investigate the following HR indicators, subject to the availab
 
 ## 7. Instructor
 
-**Instructor Name:** [Enter Instructor's Full Name]
+**Instructor Name:** [Mohmoud Emad]
 
 **Program:** DEPI — Digital Egypt Pioneers Initiative
 
